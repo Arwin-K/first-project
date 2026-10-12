@@ -1,0 +1,11 @@
+Model Information:
+* title:	Micro sumo paladin
+* source:	https://sketchfab.com/3d-models/micro-sumo-paladin-c70f396029de4fc285f06e31b7400a9b
+* author:	matheus.nfranca97 (https://sketchfab.com/matheus.nfranca97)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Micro sumo paladin" (https://sketchfab.com/3d-models/micro-sumo-paladin-c70f396029de4fc285f06e31b7400a9b) by matheus.nfranca97 (https://sketchfab.com/matheus.nfranca97) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
